@@ -9,3 +9,4 @@ You may need to adjust the local file name / directory of the .csv file in lines
 To change the symbol graphed for the data set, modify the symbols in the respective quality_X line(s) (where x = a vowel symbol)
 # The data which is graphed comes from the F1_average_X & F2_average_X values. 
 # For the graph generated from this script, the duration_X data has no effect.
+# In R - to change the title of the generated graph, look for [main = "F1 by F2 for Kaqchikel Vowels"] main = " X ", where "X" is the titel of the graph generated
